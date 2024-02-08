@@ -81,7 +81,7 @@ The trained model's performance will be evaluated on the test set with its accur
 
 ### Data Source
 
-7000 Internet downloaded image files where 6000 images are for training and 1000 images are for testing. Among training images, 4000 images are recyclable waste and 2000 images are non-recyclable waste. In the testing image set, recyclable and non-recyclable waste has about 500 images each.
+2000 Internet downloaded image files where 1000 images are for training and 1000 images are for testing. Among training images, 500 images are recyclable waste and 500 images are non-recyclable waste. In the testing image set, recyclable and non-recyclable waste has about 500 images each.
 
 The downloaded images are labelled into recyclable, non-recyclable waste and put into 2 separate folders.
 
