@@ -1,10 +1,10 @@
-# item-classification-deep-learning
+# deep-learning-real-life-item-classification
 This project is to solve an real life item classification problem using deep learning technology.
 
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![MIT License][license-shield]]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT Image -->
@@ -218,6 +218,7 @@ Project Link: [https://github.com/oscarlee711/image-classification-neural-networ
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/oscarlee1
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
