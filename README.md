@@ -1,4 +1,4 @@
-# deep-learning-real-life-item-classification
+# Deep Learning Real Life Item Classification
 This project is to solve an real life item classification problem using deep learning technology.
 
 <a name="readme-top"></a>
@@ -211,7 +211,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Oscar Lee</br>
 Email: mail.oscar.lee@gmail.com</br>
 LinkedIn: [https://www.linkedin.com/in/oscarlee1](https://www.linkedin.com/in/oscarlee1)</br>
-Project Link: [https://github.com/oscarlee711/image-classification-neural-network](https://github.com/oscarlee711/image-classification-neural-network)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
